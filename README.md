@@ -1,7 +1,6 @@
 # Product Range Analysis
 
-## For a complete view of all graphs in the notebook, please use this link: 
-[Product Range Analysis](https://nbviewer.jupyter.org/github/Emmanuel-Nti/product_range_analysis/blob/master/final_project_e_nti.ipynb)
+### For better view of graphs, click 👉 [Product Range Analysis](https://nbviewer.jupyter.org/github/Emmanuel-Nti/product_range_analysis/blob/master/final_project_e_nti.ipynb)
 
 
 | Project Description | Libraries Used | Source of Data |
