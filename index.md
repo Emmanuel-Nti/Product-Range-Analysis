@@ -1,4 +1,4 @@
-# Product Range Analysis Portfolio
+# Product Analysis Portfolio
 <p align ="center">
    <img src = "product.PNG">
  </p>
