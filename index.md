@@ -1,4 +1,3 @@
-<meta http-equiv="Refresh" content="2; url=public/index.html">
 # Product Range Analysis Portfolio
 
 ## General Findings
