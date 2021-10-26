@@ -1,9 +1,8 @@
-# Product Range Analysis Portfolio
+
 <p align ="center">
    <img src = "product.PNG">
  </p>
-## Link to the Project 
-[Product Range Analysis](https://nbviewer.org/github/Emmanuel-Nti/product_range_analysis/blob/master/final_project_e_nti.ipynb)
+# [Project Link](https://nbviewer.org/github/Emmanuel-Nti/product_range_analysis/blob/master/final_project_e_nti.ipynb)
 
 ## How I Approached the Project
 - Importation of the data and Libraries
