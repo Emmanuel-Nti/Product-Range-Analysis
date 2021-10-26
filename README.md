@@ -1,4 +1,4 @@
-# Product Range Analysis
+# Product Range Analysis Portfolio
 
 ### For better view of graphs, click 👉 [Product Range Analysis](https://nbviewer.jupyter.org/github/Emmanuel-Nti/product_range_analysis/blob/master/final_project_e_nti.ipynb)
 
