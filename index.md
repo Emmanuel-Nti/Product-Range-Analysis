@@ -16,7 +16,6 @@
 - Conclusion and Recommendations
 
 ## General Findings
-
 - The quantity of products ordered had a mean of about 10 and a standard deviation of about 219.
 - The highest unit price of a product costed £38,970.00.
 - Unit price had a mean on about £4.60.
@@ -45,7 +44,6 @@
 
 
 ## Libraries Used
-
 - Pandas 
 - Numpy 
 - Scipy 
