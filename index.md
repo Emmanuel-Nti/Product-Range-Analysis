@@ -1,10 +1,25 @@
 # Product Range Analysis Portfolio
 
+## Link to the Project 
+[Product Range Analysis](https://nbviewer.org/github/Emmanuel-Nti/product_range_analysis/blob/master/final_project_e_nti.ipynb)
+
+## How I Approached the Project
+- Importation of the data and Libraries
+- Preprocessed the data and carried out exploratory data analysis (Categorized the products with machine learning algorithm)
+- Analyzed the product range 
+   - Revenue analyses
+   - Products more often sold by themselves
+   - Products in additional assortment
+   - Product categories more often in additional assortment
+   - Product categories often present in shopping carts
+- Formulated and tested statistical hypotheses
+- Conclusion and ProRecommendations
+- 
 ## General Findings
-- There were 4206 unique products. The maximum ordered quantity was 80995 and the minimum ordered qunatity was -80995.
+
 - The quantity of products ordered had a mean of about 10 and a standard deviation of about 219.
-- The highest unit price of a product costed £38,970.
-- Unit price had a mean on about £4.6.
+- The highest unit price of a product costed £38,970.00.
+- Unit price had a mean on about £4.60.
 - Invoice number 573585 had the highest number of products ordered (1113 products). The top ten invoices shows the customers of the store are mostly wholesalers.
 - Kitchen ware is the most frequently purchased category, plant and accessories are the least frequently purchased category.
 - The highest daily orders was on November 30th, 2018, followed by November 15th, 2019 (141 and 136 orders respectively). The lowest daily order was on 4th February 2019 - just 11 orders.
@@ -12,7 +27,7 @@
 - Revenues are comparatively lower from January to July and higher from August to November.
 - Regency cakestand 3 tier and paper craft, little birdie are the top two products in term of revenue generations. Regency cakestand 3 tier generated a revenue amounting to about 174,200 - the highest.
 - The most cancelled product order is Regency cakestand 3 tier - cancelled 180 times.
-- on average, paper craft, little birdie generated the highest revenue - about £168,469.
+- on average, paper craft, little birdie generated the highest revenue - about £168,469.00.
 - on average, Kitchen ware generated the least revenue - about £18 while home decorations generated the highest- about £23.
 - There were 1501 products that were sold by themselves. Rabbit night light was sold alone 32 times- the most sold alone product.
 - About 99.7% of the products were sold together with others - additional assortment.
@@ -27,9 +42,6 @@
 - Home decorations is the third most purchased category but has the highest average revenue. Hence, invest more in advertising home decorations to boost purchase rate and revenue.
 - As plant and accessories are the least frequently purchased category, increase advertising investment to enhance orders.
 - Regency cakestand 3 tier is the leading revenue generator on aggragate but the most cancelled product order. Pay much attention to this product. For instance, why does it often get cancelled? If the cancellation rate is minimized, revenue would be maximized.
-
-# Link to the Project 
-[Product Range Analysis](https://nbviewer.org/github/Emmanuel-Nti/product_range_analysis/blob/master/final_project_e_nti.ipynb)
 
 
 ## Libraries Used
