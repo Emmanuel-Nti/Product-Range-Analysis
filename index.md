@@ -24,7 +24,7 @@
 - The highest daily orders was on November 30th, 2018, followed by November 15th, 2019 (141 and 136 orders respectively). The lowest daily order was on 4th February 2019 - just 11 orders.
 - The number of total monthly orders from December 2018 to November 2019 increased by about 121%.
 - Revenues are comparatively lower from January to July and higher from August to November.
-- Regency cakestand 3 tier and paper craft, little birdie are the top two products in term of revenue generations. Regency cakestand 3 tier generated a revenue amounting to about 174,200 - the highest.
+- Regency cakestand 3 tier and paper craft little birdie are the top two products in term of revenue generations. Regency cakestand 3 tier generated a revenue amounting to about 174,200 - the highest.
 - The most cancelled product order is Regency cakestand 3 tier - cancelled 180 times.
 - on average, paper craft, little birdie generated the highest revenue - about £168,469.00.
 - on average, Kitchen ware generated the least revenue - about £18 while home decorations generated the highest- about £23.
