@@ -17,7 +17,6 @@
 - Conclusion and Recommendations
 
 ## General Findings
-- The quantity of products ordered had a mean of about 10 and a standard deviation of about 219.
 - The highest unit price of a product costed £38,970.00.
 - Unit price had a mean on about £4.60.
 - Invoice number 573585 had the highest number of products ordered (1113 products). The top ten invoices shows the customers of the store are mostly wholesalers.
