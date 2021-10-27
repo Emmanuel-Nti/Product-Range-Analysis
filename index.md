@@ -2,7 +2,7 @@
 <p align ="center">
    <img src = "product.PNG">
  </p>
-# [Project Link](https://nbviewer.org/github/Emmanuel-Nti/product_range_analysis/blob/master/final_project_e_nti.ipynb)
+# For Detailed Project Click [Here](https://nbviewer.org/github/Emmanuel-Nti/product_range_analysis/blob/master/final_project_e_nti.ipynb) 
 
 ## How I Approached the Project
 - Importation of the data and Libraries
