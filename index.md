@@ -5,8 +5,8 @@
 ## [Detailed Project Link](https://nbviewer.org/github/Emmanuel-Nti/product_range_analysis/blob/master/final_project_e_nti.ipynb) 
 
 ## How I Approached the Project
-- Importation of the data and Libraries
-- Preprocessed the data and carried out exploratory data analysis (Categorized the products with machine learning algorithm)
+- Importation of the data and libraries
+- Preprocessed the data and carried out exploratory data analysis (categorized the products with machine learning algorithm)
 - Analyzed the product range 
    - Revenue analyses
    - Products more often sold by themselves
@@ -14,7 +14,7 @@
    - Product categories more often in additional assortment
    - Product categories often present in shopping carts
 - Formulated and tested statistical hypotheses
-- Conclusion and Recommendations
+- Conclusion and recommendations
 
 ## General Findings
 - The highest unit price of a product costed £38,970.00.
