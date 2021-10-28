@@ -1,6 +1,6 @@
 # Product Analysis Portfolio
 <p align ="center">
-   <img src = "product.PNG">
+   <img src = "new.PNG">
  </p>
 ## [Detailed Project Link](https://nbviewer.org/github/Emmanuel-Nti/product_range_analysis/blob/master/final_project_e_nti.ipynb) 
 
