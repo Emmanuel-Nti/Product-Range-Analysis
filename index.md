@@ -26,8 +26,8 @@
 - Revenues are comparatively lower from January to July and higher from August to November.
 - Regency cakestand 3 tier and paper craft little birdie are the top two products in terms of revenue generation. Regency cakestand 3 tier generated a revenue amounting to about £174,200.00 - the highest.
 - The most cancelled product order is Regency cakestand 3 tier - cancelled 180 times.
-- on average, paper craft little birdie generated the highest revenue - about £168,469.00.
-- on average, Kitchen ware generated the least revenue - about £18 while home decorations generated the highest- about £23.
+- On average, paper craft little birdie generated the highest revenue - about £168,469.00.
+- On average, Kitchen ware generated the least revenue - about £18 while home decorations generated the highest- about £23.
 - There were 1501 products that were sold by themselves. Rabbit night light was sold alone 32 times- the most sold alone product.
 - About 99.7% of the products were sold together with others - additional assortment.
 - Jumbo bag and pink polkadot and jumbo bag red retrospot were the products most often sold together.
