@@ -39,7 +39,7 @@
 ## Recommendations
 - Since about 99.7% of products are included in additional assortment, there is a need to create a product recommendation system.
 - Home decorations is the third most purchased category but has the highest average revenue. Hence, invest more in advertising home decorations to boost purchase rate and revenue.
-- As plant and accessories are the least frequently purchased category, increase advertising investment to enhance orders.
+- As plant and accessories is the least frequently purchased category, increase advertising investment to enhance orders.
 - Regency cakestand 3 tier is the leading revenue generator on aggragate but the most cancelled product order. Pay much attention to this product. For instance, why does it often get cancelled? If the cancellation rate is minimized, revenue would be maximized.
 
 
