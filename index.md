@@ -2,6 +2,7 @@
 <p align ="center">
    <img src = "news.PNG">
  </p>
+ 
 ## [Detailed Project Link](https://nbviewer.org/github/Emmanuel-Nti/product_range_analysis/blob/master/final_project_e_nti.ipynb) 
 
 #### How I Approached the Project
