@@ -16,7 +16,7 @@
    - Product categories often present in shopping carts
 - Formulated and tested statistical hypotheses
 - Conclusion and recommendations
-#### Assessing the Product Categorization Model
+#### Product Categorization Model
 A near perfect model was built to categorize the products.
 <p align ="center">
    <img src = "model.PNG">
