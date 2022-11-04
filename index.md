@@ -3,7 +3,7 @@
    <img src = "news.PNG">
  </p>
  
-## [Detailed Project Link](https://nbviewer.org/github/Emmanuel-Nti/product_range_analysis/blob/master/final_project_e_nti.ipynb) 
+## [Detailed Project Link](https://nbviewer.org/github/Emmanuel-Nti/Product-Range-Analysis/blob/master/product_range_e_nti.ipynb) 
 
 #### How I Approached the Project
 - Importation of the data and libraries
@@ -20,7 +20,7 @@
 #### Products in Additional Assortment
 About 99% of the products were sold together with others.
 <p align ="center">
-   <img src = "products.PNG">
+   <img src = "product.PNG">
  </p>
  
 #### General Findings
