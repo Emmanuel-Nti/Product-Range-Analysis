@@ -1,7 +1,7 @@
 # Product Range Analysis 
 ### [Project Summary](https://emmanuel-nti.github.io/Product-Range-Analysis/)
 
-### [Detailed Project](https://nbviewer.org/github/Emmanuel-Nti/Product-Range-Analysis/blob/master/product_range_e_nti.ipynb)
+### [Detailed Project](https://nbviewer.org/github/Emmanuel-Nti/Product-Range-Analysis/blob/master/product_range_nti.ipynb)
 
 
 | Project Description | Libraries Used | Source of Data |
