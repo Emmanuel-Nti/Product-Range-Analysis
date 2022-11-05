@@ -3,7 +3,7 @@
    <img src = "news.PNG">
  </p>
  
-## [Detailed Project Link](https://nbviewer.org/github/Emmanuel-Nti/Product-Range-Analysis/blob/master/product_range_e_nti.ipynb) 
+## [Detailed Project Link](https://nbviewer.org/github/Emmanuel-Nti/Product-Range-Analysis/blob/master/product_range_nti.ipynb) 
 
 #### How I Approached the Project
 - Importation of the data and libraries
